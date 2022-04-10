@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Прошёл курс в :yum: <a target="_blank" href="https://practicum.yandex.ru/qa-automation-engineer-java/">Курс
-«Автоматизатор тестирования на Java»</a> :yum:
+Прошёл курс в :yum: <a target="_blank" href="https://practicum.yandex.ru/qa-automation-engineer-java/">Яндекс Практикум</a> :yum:
 
 Прохожу курс в :star2: <a target="_blank" href="https://qa.guru/">QA.GURU</a> :star2:
 
