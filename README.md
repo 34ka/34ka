@@ -1,4 +1,4 @@
-### Hi there 👋
+### Всем привет 👋
 
 <!--
 **34ka/34ka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Прошёл курс в :yum: <a target="_blank" href="https://practicum.yandex.ru/qa-automation-engineer-java/">Курс
+«Автоматизатор тестирования на Java»</a> :yum:
+
+Прохожу курс в :star2: <a target="_blank" href="https://qa.guru/">QA.GURU</a> :star2:
+
+Немного мучаю :relaxed: <a target="_blank" href="https://javarush.ru">JAVARUSH</a> :relaxed:
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=34ka&show_icons=true&theme=radical)
