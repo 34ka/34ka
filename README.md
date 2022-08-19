@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Прошёл курс в :yum: <a target="_blank" href="https://practicum.yandex.ru/qa-automation-engineer-java/">Яндекс Практикум</a> по автоматизации на java :yum:
 
-Прохожу курс в :star2: <a target="_blank" href="https://qa.guru/">QA.GURU</a> :star2:
+Прошёл курс в :star2: <a target="_blank" href="https://qa.guru/">QA.GURU</a> :star2: <a target="_blank" href="https://github.com/34ka/eldorado"> и вот проект </a> ⚡
 
 Немного мучаю :relaxed: <a target="_blank" href="https://javarush.ru">JAVARUSH</a> :relaxed:
 
